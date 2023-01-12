@@ -1,6 +1,6 @@
 # YouTube clon
 
-![YouTubeClon](https://ibb.co/68zN4q8)
+![YouTubeClon](https://i.ibb.co/jzmHLjz/localhost-5173-3-1.png)
 
 ---
 
@@ -29,10 +29,10 @@ YouTube clone utilizando React y MaterialUI.
 
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
-![Home](https://ibb.co/68zN4q8)
-![Video](https://ibb.co/CJgdq6v)
-![Channel](https://ibb.co/CQbRCBm)
-![Mobile](https://ibb.co/zm75XSp)
+![Home](https://i.ibb.co/jzmHLjz/localhost-5173-3-1.png)
+![Video](https://i.ibb.co/KNdZYD7/localhost-5173-3-2.png)
+![Channel](https://i.ibb.co/vk30y1V/localhost-5173-4-1.png)
+![Mobile](https://i.ibb.co/nwn07D9/localhost-5173-i-Phone-12-Pro-1.png)
 
 ---
 
