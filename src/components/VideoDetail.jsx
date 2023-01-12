@@ -40,7 +40,7 @@ const VideoDetail = () => {
               className="react-player"
               controls
             />
-            <Typography color="#221e1e" variant="h5" fontWeight="bold" p={2}>
+            <Typography color="#e1e1e1" variant="h5" fontWeight="bold" p={2}>
               {title}
             </Typography>
             <Stack
